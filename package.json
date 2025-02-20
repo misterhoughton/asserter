@@ -9,7 +9,7 @@
   "scripts": {
     "watch": "parcel watch",
     "build": "parcel build --no-cache",
-    "test": "node test.js"
+    "test": "node src/test.js"
   },
   "dependencies": {
     "@parcel/packager-ts": "^2.13.3",
