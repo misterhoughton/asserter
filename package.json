@@ -8,7 +8,8 @@
   "types": "dist/types.d.ts",
   "scripts": {
     "watch": "parcel watch",
-    "build": "parcel build --no-cache"
+    "build": "parcel build --no-cache",
+    "test": "node test.js"
   },
   "dependencies": {
     "@parcel/packager-ts": "^2.13.3",
