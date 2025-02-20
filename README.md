@@ -8,4 +8,4 @@ Make a NPM library or die trying
 
 ## Test me
 
-    npm run build
+    npm test
